@@ -9,7 +9,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
 
-<!-- ## Project 10 [Live Link](https://live-proj-10.netlify.app) -->
+## Project 10 [Live Link](https://zeeshan-html-css-project-10.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to use **background-image** with **lienar-gradient**.
